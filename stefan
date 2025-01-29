@@ -1,0 +1,21 @@
+def calculator():
+print("Alege o operatie:")
+print("1. Adunare")
+print("2. scădere")
+print("3. înmulțire)
+print("4. înpărțire)
+operatie= input("introdu numarul operatiei (1/2/3/4/):")
+
+
+
+
+
+
+
+
+
+
+
+
+
+)
